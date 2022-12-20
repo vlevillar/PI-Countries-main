@@ -1,0 +1,23 @@
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+	gap: 10%;
+}
+.home {
+	height: 100%;
+	width: 100%;
+	background: url("../../assets/BackgroundMain.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.filtrados {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0 auto;
+	gap: 10%;
+}
